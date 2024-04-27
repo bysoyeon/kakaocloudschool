@@ -1,0 +1,20 @@
+[
+  {
+    "id":"hello@naver.com",
+    "pw":"",
+    "nickname":"안녕하세요",
+    "leave":"n",
+    "joinDate":"2024-04-25 10:40:51",
+    "leaveDate":"none",
+    "userNum":2
+  },
+  {
+    "id":"sy@naver.com",
+    "pw":"qwer1234!",
+    "nickname":"에스핀",
+    "leave":"n",
+    "joinDate":"2024-04-25 10:14:29",
+    "leaveDate":"none",
+    "userNum":1
+  }
+]

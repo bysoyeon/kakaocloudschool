@@ -1,0 +1,38 @@
+[
+  {
+    "title": "베베 개발자. 응애.",
+    "txt": "안녕하세요. 에스핀입니다. ",
+    "user": 1,
+    "contentsId": 3,
+    "like": 123,
+    "comment": 4,
+    "view": 987,
+    "writeDate": "2024-04-25 00:11:13",
+    "modifyDate": "2024-04-25 00:11:13",
+    "delete": "n"
+  },
+  {
+    "title": "두번째 게시글",
+    "txt": "커뮤니티를 만들어보쟈 으쌰",
+    "user": 2,
+    "contentsId": 2,
+    "like": 13,
+    "comment": 10,
+    "view": 74,
+    "writeDate": "2024-04-01 12:12:00",
+    "modifyDate": "2024-04-01 12:12:00",
+    "delete": "n"
+  },
+  {
+    "title": "첫번째 게시글",
+    "txt": "오래된 게시글이 제일 끝에 보여요. 수정",
+    "user": 1,
+    "contentsId": 1,
+    "like": 13,
+    "comment": 10,
+    "view": 74,
+    "writeDate": "2024-04-25 14:44:57",
+    "modifyDate": "2024-04-25 14:44:57",
+    "delete": "n"
+  }
+]
