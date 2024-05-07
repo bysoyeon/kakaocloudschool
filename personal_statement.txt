@@ -1,10 +1,6 @@
 
 이것도 또 합니다...
 
-자기소개 내용 추가
-안녕하세요. 에스핀입니다. 
-
-개발자 포부 추가 
-=> merge 하면서 conflict 발생했음
-=> 내용 통일하여 수정 완료
-
+9. main branch에서 sub2라는 branch로 checkout 후 
+personal_statement.txt에 ‘자기 소개’를 쓰고 commit 해보세요.
+=> 이전에 main 브랜치에서 작성한 내용과 다름.
